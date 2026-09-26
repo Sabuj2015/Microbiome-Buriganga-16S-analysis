@@ -1,0 +1,29 @@
+Sample_ID,Site_code,Site_number,Site_name,River,Zone,Habitat,Latitude,Longitude,Collection,BioProject
+DeulS,Deul,1,Deul,Turag,Upstream,Sediment,23.8661403,90.3507461,January 2023,PRJNA1399629
+NbbS,Nbb,2,Nobaberbag,Turag,Upstream,Sediment,23.8132878,90.3393873,January 2023,PRJNA1399629
+AbbS,Abb,3,Aminbazar Bridge,Turag,Upstream,Sediment,23.7845523,90.3363125,January 2023,PRJNA1399629
+BsbS,Bsb,4,Bosila Bridge,Buriganga,Midstream,Sediment,23.7440959,90.3464334,January 2023,PRJNA1399629
+MdcS,Mdc,5,Madhyer Char,Buriganga,Midstream,Sediment,23.7296287,90.3575465,January 2023,PRJNA1399629
+KrcS,Krc,6,Kamrangirchar,Buriganga,Midstream,Sediment,23.7099437,90.3649564,January 2023,PRJNA1399629
+BsgS,Bsg,7,Barishur Ghat,Buriganga,Midstream,Sediment,23.7059582,90.3759116,January 2023,PRJNA1399629
+JjfS,Jjf,8,Jinjira Ferryghat,Buriganga,Midstream,Sediment,23.7092334,90.3933855,January 2023,PRJNA1399629
+BbbS,Bbb,9,Babubazar Bridge,Buriganga,Midstream,Sediment,23.7084813,90.4004957,January 2023,PRJNA1399629
+CmbS,Cmb,11,Char Mirerbagh,Buriganga,Downstream,Sediment,23.686372,90.425797,January 2023,PRJNA1399629
+PgbS,Pgb,12,Postagola Bridge,Buriganga,Downstream,Sediment,23.6879863,90.4242685,January 2023,PRJNA1399629
+HnbS,Hnb,10,Nayatola (Hasnabad),Buriganga,Downstream,Sediment,23.696665,90.412138,January 2023,PRJNA1399629
+PaglaS,Pagla,13,Pagla,Buriganga,Downstream,Sediment,23.660983,90.4557016,January 2023,PRJNA1399629
+FatulS,Fatul,14,Fatullah,Buriganga,Downstream,Sediment,23.6411826,90.4723568,January 2023,PRJNA1399629
+DeulW,Deul,1,Deul,Turag,Upstream,Water,23.8661403,90.3507461,January 2023,PRJNA1399629
+NbbW,Nbb,2,Nobaberbag,Turag,Upstream,Water,23.8132878,90.3393873,January 2023,PRJNA1399629
+AbbW,Abb,3,Aminbazar Bridge,Turag,Upstream,Water,23.7845523,90.3363125,January 2023,PRJNA1399629
+BsbW,Bsb,4,Bosila Bridge,Buriganga,Midstream,Water,23.7440959,90.3464334,January 2023,PRJNA1399629
+MdcW,Mdc,5,Madhyer Char,Buriganga,Midstream,Water,23.7296287,90.3575465,January 2023,PRJNA1399629
+KrcW,Krc,6,Kamrangirchar,Buriganga,Midstream,Water,23.7099437,90.3649564,January 2023,PRJNA1399629
+BsgW,Bsg,7,Barishur Ghat,Buriganga,Midstream,Water,23.7059582,90.3759116,January 2023,PRJNA1399629
+JjfW,Jjf,8,Jinjira Ferryghat,Buriganga,Midstream,Water,23.7092334,90.3933855,January 2023,PRJNA1399629
+BbbW,Bbb,9,Babubazar Bridge,Buriganga,Midstream,Water,23.7084813,90.4004957,January 2023,PRJNA1399629
+CmbW,Cmb,11,Char Mirerbagh,Buriganga,Downstream,Water,23.686372,90.425797,January 2023,PRJNA1399629
+PgbW,Pgb,12,Postagola Bridge,Buriganga,Downstream,Water,23.6879863,90.4242685,January 2023,PRJNA1399629
+HnbW,Hnb,10,Nayatola (Hasnabad),Buriganga,Downstream,Water,23.696665,90.412138,January 2023,PRJNA1399629
+PaglaW,Pagla,13,Pagla,Buriganga,Downstream,Water,23.660983,90.4557016,January 2023,PRJNA1399629
+FatulW,Fatul,14,Fatullah,Buriganga,Downstream,Water,23.6411826,90.4723568,January 2023,PRJNA1399629

@@ -1,0 +1,13 @@
+Category,Genus,UpS (%),MidS (%),DownS (%),UpW (%),MidW (%),DownW (%)
+Biogeochemical cycling,Bacillus,0.94,15.12,0.04,0.05,0.04,0.0
+Biogeochemical cycling,Thiobacillus,0.71,3.15,8.89,0.02,0.18,0.25
+Biogeochemical cycling,Sulfuricurvum,0.58,3.57,4.38,0.59,0.37,1.62
+Biogeochemical cycling,Thauera,1.72,1.16,7.48,0.99,0.73,0.98
+Biogeochemical cycling,Enterobacter,7.36,2.33,1.13,1.67,0.51,0.98
+Potential pathogen,Ralstonia,0.21,0.42,0.3,0.34,19.45,1.59
+Potential pathogen,Acinetobacter,3.21,0.98,0.79,2.67,6.02,5.27
+Potential pathogen,Arcobacter,0.08,0.16,0.06,0.43,6.7,2.01
+Potential pathogen,Cloacibacterium,0.54,0.57,3.95,5.9,2.66,5.03
+Potential pathogen,Aeromonas,0.2,0.79,0.25,0.38,1.19,1.71
+Redox / other,Trichlorobacter,0.63,0.56,0.5,6.44,1.79,2.4
+Unclassified,C39,0.14,0.08,0.05,12.2,2.59,2.95

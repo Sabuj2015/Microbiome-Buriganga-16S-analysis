@@ -1,0 +1,7 @@
+Group,Zone,n,Obs. spp.,Chao1,Shannon H',Simpson,Good's cov.
+Upstream sediment,Upstream,3,2847,3596,9.08,0.989,0.969
+Midstream sediment,Midstream,6,2161,2705,7.04,0.869,0.974
+Downstream sediment,Downstream,5,1304,1790,6.82,0.968,0.983
+Upstream water,Upstream,3,1522,2167,6.94,0.964,0.979
+Midstream water,Midstream,6,1765,2475,6.29,0.864,0.976
+Downstream water,Downstream,5,1667,2577,7.06,0.968,0.975

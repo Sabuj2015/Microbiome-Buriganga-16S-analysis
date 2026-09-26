@@ -1,0 +1,9 @@
+# Versions used for the published analysis (Python 3.14)
+pandas==2.3.3
+numpy==2.3.5
+scipy==1.16.3
+matplotlib==3.10.7
+openpyxl==3.1.5
+pillow==12.1.1
+# R 4.5.2 with vegan, ggplot2 and pheatmap: install.packages(c("vegan", "ggplot2", "pheatmap"))
+# LEfSe 1.1.2 (bioconda) for Figure 3B-D

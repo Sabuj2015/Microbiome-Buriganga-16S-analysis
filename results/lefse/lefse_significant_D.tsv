@@ -1,0 +1,5 @@
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Oscillospirales.f__Hungateiclostridiaceae	Downstream	4.135256589232166	0.025347318677468304
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Oscillospirales.f__Hungateiclostridiaceae.g__Saccharofermentans	Downstream	4.132192286726067	0.025347318677468304
+Taxon	Group	LDA_log10	p_KW
+k__Bacteria.p__Proteobacteria.c__Alphaproteobacteria.o__Rhodobacterales.f__Rhodobacteraceae	Upstream	4.241267613206347	0.025347318677468304
+k__Bacteria.p__Proteobacteria.c__Alphaproteobacteria.o__Rhodobacterales	Upstream	4.230216235126218	0.025347318677468304

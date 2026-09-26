@@ -1,0 +1,17 @@
+Comparison,Df,F,R2,R2_residual,p
+UpstrmS-UpstrmW,1(4),2.331,0.36819,0.63181,0.1
+UpstrmS-DownstmS,1(6),3.4537,0.36533,0.63467,0.013
+UpstrmS-DownstmW,1(6),3.5318,0.37053,0.62947,0.001
+UpstrmS-MidstrmW,1(7),2.8915,0.29232,0.70768,0.013
+UpstrmS-MidstrmS,1(7),1.2887,0.15547,0.84453,0.141
+UpstrmW-DownstmS,1(6),4.5943,0.43366,0.56634,0.001
+UpstrmW-DownstmW,1(6),1.4712,0.19691,0.80309,0.12
+UpstrmW-MidstrmW,1(7),1.6272,0.18861,0.81139,0.113
+UpstrmW-MidstrmS,1(7),2.5215,0.26482,0.73518,0.001
+DownstmS-DownstmW,1(8),6.47,0.44713,0.55287,0.009
+DownstmS-MidstrmW,1(9),5.8994,0.39595,0.60405,0.003
+DownstmS-MidstrmS,1(9),2.5374,0.21993,0.78007,0.008
+DownstmW-MidstrmW,1(9),1.0938,0.10836,0.89164,0.435
+DownstmW-MidstrmS,1(9),3.7939,0.29654,0.70346,0.003
+MidstrmW-MidstrmS,1(10),3.5614,0.26261,0.73739,0.005
+Soil-Water,1(26),7.0678,0.21374,0.78626,0.001
