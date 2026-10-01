@@ -2,7 +2,7 @@
 
 Data and code for the manuscript
 
-> **Anthropogenic pollution shapes sediment and water microbiomes of Buriganga and Turag Rivers in Dhaka, Bangladesh** (BMC Microbiology, under review)
+> **Sediment and water microbiomes of the Buriganga and Turag Rivers along an anthropogenic pollution gradient in Dhaka, Bangladesh** (BMC Microbiology, under review)
 
 Raw reads: NCBI Sequence Read Archive, BioProject [PRJNA1399629](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1399629).
 
@@ -28,6 +28,7 @@ Raw reads: NCBI Sequence Read Archive, BioProject [PRJNA1399629](https://www.ncb
 | Tables 1–3; Additional file 1 (Tables S1–S3) | `06_additional_file_1.py` | as listed in the script |
 | Additional file 2 (UpSet plot) | `07_additional_file_2_upset.py` | `otu_table.csv` |
 | Figures 4–6 assembled | `08_compose_figures.py` | – |
+| Sediment–water PERMANOVA with permutations restricted within sites; Kruskal–Wallis tests of potentially pathogenic genera among water zones | `09_replication_checks.R` | `otu_table.csv`, `sample_metadata.csv` |
 
 \* These panels use the normalized (rarefied) OTU table of the original analysis, `data/otu_table_normalized.csv`, which has the same layout as `otu_table.csv`. If that file is absent, the scripts rarefy `otu_table.csv` to the smallest library (seed 2023), and the values are then close to, but not identical with, the published panels.
 
@@ -46,9 +47,10 @@ data/
   picrust2_kegg_level_1/2/3.csv     predicted KEGG categories per sample (PICRUSt2 v2.3.0)
   figure5B_genera.csv               genera shown in Figure 5B
   panels/                           Figure 4A
-scripts/                            00-08 as listed above
-results/                            regenerated figures, LEfSe output, Additional files 1 and 2
-run_all.sh                          runs scripts 01-08
+scripts/                            00-09 as listed above
+results/                            regenerated figures, LEfSe output, Additional files 1 and 2,
+                                    replication_checks.csv
+run_all.sh                          runs scripts 01-09
 requirements.txt
 ```
 

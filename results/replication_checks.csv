@@ -1,0 +1,9 @@
+"test","n","statistic","p"
+"PERMANOVA sediment vs water, permutations unrestricted (9999)",28,"R2 = 0.215, F = 7.11",1e-04
+"PERMANOVA sediment vs water, permutations restricted within sites (9999)",28,"R2 = 0.215, F = 7.11",2e-04
+"Kruskal-Wallis, water, zones: sum of Ralstonia+Arcobacter+Acinetobacter+Cloacibacterium+Aeromonas (zone means Upstream 9.72; Midstream 36.02; Downstream 15.62 %)",14,"chi2 = 4.64, df = 2",0.0983
+"Kruskal-Wallis, water, zones: Ralstonia",14,"chi2 = 2.44, df = 2",0.296
+"Kruskal-Wallis, water, zones: Arcobacter",14,"chi2 = 0.73, df = 2",0.693
+"Kruskal-Wallis, water, zones: Acinetobacter",14,"chi2 = 1.03, df = 2",0.598
+"Kruskal-Wallis, water, zones: Cloacibacterium",14,"chi2 = 0.75, df = 2",0.686
+"Kruskal-Wallis, water, zones: Aeromonas",14,"chi2 = 2.22, df = 2",0.33

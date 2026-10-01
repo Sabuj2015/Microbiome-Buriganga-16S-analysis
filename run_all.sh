@@ -17,4 +17,5 @@ python3 05b_figure5B.py               # Figure 5B
 python3 06_additional_file_1.py       # Additional file 1 (Tables S1-S3, Tables 1-3)
 python3 07_additional_file_2_upset.py # Additional file 2 (UpSet plot)
 python3 08_compose_figures.py         # Figures 4-6 assembled
+Rscript 09_replication_checks.R      # within-site PERMANOVA; zone tests of potentially pathogenic genera
 echo "Done. Outputs are in results/."
