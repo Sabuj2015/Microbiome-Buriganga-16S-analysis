@@ -13,6 +13,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+from PIL import Image
 
 HERE = Path(__file__).resolve().parent
 DATA = HERE.parent / "data"
@@ -75,7 +76,9 @@ def main():
     ax_dot.axis("off")
     fig.text(0.12, 0.385, "Set\nsize", ha="center", fontsize=8, style="italic")
     fig.savefig(FIG / "Additional_file_2_UpSet.png", dpi=300)
-    fig.savefig(FIG / "Additional_file_2_UpSet.tiff", dpi=300, pil_kwargs={"compression": "tiff_lzw"})
+    # TIFF without an alpha channel (RGB, LZW compression, 300 dpi) for journal submission systems
+    Image.open(FIG / "Additional_file_2_UpSet.png").convert("RGB").save(
+        FIG / "Additional_file_2_UpSet.tiff", dpi=(300, 300), compression="tiff_lzw")
     core = int(member.all(axis=1).sum())
     print(f"UpSet: {len(member[member.any(axis=1)])} OTUs; shared by all six groups: {core}; set sizes:",
           {n: int(member[n].sum()) for n in names})

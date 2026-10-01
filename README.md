@@ -4,7 +4,7 @@ Data and code for the manuscript
 
 > **Sediment and water microbiomes of the Buriganga and Turag Rivers along an anthropogenic pollution gradient in Dhaka, Bangladesh** (BMC Microbiology, under review)
 
-Raw reads: NCBI Sequence Read Archive, BioProject [PRJNA1399629](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1399629).
+Raw reads: NCBI Sequence Read Archive, BioProject [PRJNA1399629](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1399629). The run accession of each sample is listed in `data/sra_runs.csv`.
 
 ## Study design
 
@@ -38,6 +38,7 @@ Raw reads: NCBI Sequence Read Archive, BioProject [PRJNA1399629](https://www.ncb
 data/
   otu_table.csv                     17,664 OTUs x 28 samples with SILVA 138 taxonomy
   sample_metadata.csv               site number and name, river, zone, habitat, coordinates
+  sra_runs.csv                      SRA run, experiment and BioSample accessions of each sample
   sequencing_stats.csv              per-sample read counts and quality statistics
   alpha_diversity.csv               per-sample alpha diversity indices (QIIME v1.9.1)
   alpha_group_means.csv             group means (Table 2)
